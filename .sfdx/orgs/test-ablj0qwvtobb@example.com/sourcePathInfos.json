@@ -79,14 +79,12 @@
         {
             "sourcePath": "/Users/gkrishnasai/workspace/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 9630,
-            "modifiedTime": 1541338476148,
-            "changeTime": 1541338476148,
-            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
+            "size": 9763,
+            "modifiedTime": 1544221079348,
+            "changeTime": 1544221079348,
+            "contentHash": "e4aa7de6df0f8595a812094731e2b331c49a78a1",
             "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -94,14 +92,12 @@
         {
             "sourcePath": "/Users/gkrishnasai/workspace/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 9582,
-            "modifiedTime": 1541338476153,
-            "changeTime": 1541338476153,
-            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
+            "size": 9715,
+            "modifiedTime": 1544221079367,
+            "changeTime": 1544221079367,
+            "contentHash": "f1fab924fbc19f8b2e75fcfecf6ce400402da3b3",
             "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -109,14 +105,12 @@
         {
             "sourcePath": "/Users/gkrishnasai/workspace/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 9630,
-            "modifiedTime": 1541338476158,
-            "changeTime": 1541338476158,
-            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
+            "size": 9763,
+            "modifiedTime": 1544221079358,
+            "changeTime": 1544221079358,
+            "contentHash": "0df78e535995670c705036d7414733d9f7a6a057",
             "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -124,14 +118,12 @@
         {
             "sourcePath": "/Users/gkrishnasai/workspace/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 9582,
-            "modifiedTime": 1541338476162,
-            "changeTime": 1541338476162,
-            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
+            "size": 9715,
+            "modifiedTime": 1544221079377,
+            "changeTime": 1544221079377,
+            "contentHash": "6c701fda1776d5c3001e002761801492b9425e1f",
             "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -169,14 +161,12 @@
         {
             "sourcePath": "/Users/gkrishnasai/workspace/geolocation/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
-            "size": 96,
-            "modifiedTime": 1541338476136,
-            "changeTime": 1541338476136,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "size": 128,
+            "modifiedTime": 1544221079333,
+            "changeTime": 1544221079333,
+            "contentHash": "d27fa0c2041f08bf00c2797bbe836997c5aabcbe",
             "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -244,14 +234,12 @@
         {
             "sourcePath": "/Users/gkrishnasai/workspace/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "size": 17999,
-            "modifiedTime": 1541338476184,
-            "changeTime": 1541338476184,
-            "contentHash": "81d02e55919c6559612249bb933c033c99fc8c1f",
+            "size": 18107,
+            "modifiedTime": 1544221079405,
+            "changeTime": 1544221079405,
+            "contentHash": "c89dbc853546ee965122dcfbba5c07d665511de0",
             "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -259,14 +247,12 @@
         {
             "sourcePath": "/Users/gkrishnasai/workspace/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 4479,
-            "modifiedTime": 1541338476165,
-            "changeTime": 1541338476165,
-            "contentHash": "77852ef9f9dbe006414b5e0a1e5a9a56c3f0a4d0",
+            "size": 4587,
+            "modifiedTime": 1544221079382,
+            "changeTime": 1544221079382,
+            "contentHash": "a86dd2677ea5e76d835c8e0a8be10c45fdc994ad",
             "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -274,14 +260,12 @@
         {
             "sourcePath": "/Users/gkrishnasai/workspace/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 4475,
-            "modifiedTime": 1541338476172,
-            "changeTime": 1541338476172,
-            "contentHash": "aa2f38c93d832960c49454d7ae47f32c74a24c2b",
+            "size": 4583,
+            "modifiedTime": 1544221079387,
+            "changeTime": 1544221079387,
+            "contentHash": "299d932ad432e5ee72c420336260bb7188822fe6",
             "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -289,14 +273,12 @@
         {
             "sourcePath": "/Users/gkrishnasai/workspace/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 4815,
-            "modifiedTime": 1541338476167,
-            "changeTime": 1541338476167,
-            "contentHash": "a94a541c5545591ef93f3a60ed5e36bd07745038",
+            "size": 4923,
+            "modifiedTime": 1544221079408,
+            "changeTime": 1544221079408,
+            "contentHash": "cd8a757aab928cc3aa72efc5fa5df990c9908b75",
             "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -312,6 +294,19 @@
             "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/gkrishnasai/workspace/geolocation/force-app/main/default/objects/Account/fields/age__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gkrishnasai/workspace/geolocation/force-app/main/default/objects/Account/fields/age__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 386,
+            "modifiedTime": 1544221079334,
+            "changeTime": 1544221079334,
+            "contentHash": "2c45a34de6974e1621e912897a63c879202edd28",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
