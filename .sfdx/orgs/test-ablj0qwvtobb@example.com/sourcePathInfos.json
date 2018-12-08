@@ -162,7 +162,7 @@
             "sourcePath": "/Users/gkrishnasai/workspace/geolocation/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
             "size": 128,
-            "modifiedTime": 1544221079333,
+            "modifiedTime": 1544221192651,
             "changeTime": 1544221079333,
             "contentHash": "d27fa0c2041f08bf00c2797bbe836997c5aabcbe",
             "isMetadataFile": false,
@@ -202,16 +202,14 @@
     [
         "/Users/gkrishnasai/workspace/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/gkrishnasai/workspace/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "size": 366,
-            "modifiedTime": 1541338476187,
-            "changeTime": 1541338476187,
-            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
             "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 366,
+            "modifiedTime": 1544222534923,
+            "changeTime": 1544222534923,
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915"
         }
     ],
     [
